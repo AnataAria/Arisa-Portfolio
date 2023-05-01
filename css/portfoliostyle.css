@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header-bar {
+  background-color: gray;
+  height: 100px;
+  width: 100%;
+}
+.header-btn {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.row {
+  height: 100%;
+}
+
+a {
+  color: white;
+}
